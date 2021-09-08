@@ -1,10 +1,8 @@
 # Bamtang_Exam_Cipher
 Bamtang_Games_GameDev_CIPHER
-Algorithm written in C++ to decrypt a message based on a Frequency Table. - My Answer to the Bamtang Games' Game Programmer Exam (originally published in 2018):
+Proyect made in C++ to decipher a message based on a Frequency Table - This is my answer to the Bamtang Games - Game Programmer Exam
 
-Question number 1.
 1. CIPHER
-[Spanish original Question:]
 
 Desencripta el siguiente mensaje...
 
@@ -18,6 +16,6 @@ Ordena las letras del mensaje encriptado de acuerdo al número de veces que se r
 freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX"
 (de más frecuente a menos frecuente)
 
-Tu programa debe imprimir el texto desencriptado en pantalla.
+El programa debe imprimir el texto desencriptado en pantalla.
 No uses archivos ni pidas ingresar datos.
 Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de línea.
